@@ -1,39 +1,39 @@
-
+.
 # GitHub Docs <!-- omit in toc -->
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+Kho lưu trữ này chứa mã trang web tài liệu và tệp nguồn Markdown cho [docs.github.com](https://docs.github.com).
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+Nhóm Docs của GitHub làm việc trên nội dung tiền sản xuất trong kho lưu trữ riêng tư thường xuyên đồng bộ hóa với kho lưu trữ công khai này.
 
-Use the table of contents icon <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to navigate to a specific section quickly.
+Sử dụng biểu tượng mục lục <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> ở góc trên bên trái của tài liệu này để điều hướng nhanh đến một phần cụ thể.
 
-## Contributing
+## Đóng góp
 
-See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
+Xem [hướng dẫn đóng góp](CONTRIBUTING.md) để biết hướng dẫn chi tiết về cách bắt đầu dự án của chúng tôi.
 
-We accept different [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md), including some that don't require you to write a single line of code.
+Chúng tôi chấp nhận [các loại đóng góp](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md) khác nhau, bao gồm một số loại không yêu cầu bạn phải viết một dòng mã nào.
 
-On the GitHub Docs site, you can click the make a contribution button at the bottom of the page to open a pull request for quick fixes like typos, updates, or link fixes.
+Trên trang GitHub Docs, bạn có thể nhấp vào nút đóng góp ở cuối trang để mở yêu cầu kéo để sửa lỗi nhanh như lỗi đánh máy, cập nhật hoặc sửa liên kết.
 
 <img src="./contributing/images/contribution_cta.png" width="400">
 
-For more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
+Đối với các đóng góp phức tạp hơn, bạn có thể mở sự cố bằng cách sử dụng [mẫu sự cố](https://github.com/github/docs/issues/new/choose) phù hợp nhất để mô tả những thay đổi bạn muốn thấy.
 
-If you're looking for a way to contribute, you can scan through our [existing issues](https://github.com/github/docs/issues) for something to work on. When ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
+Nếu bạn đang tìm cách đóng góp, bạn có thể quét qua [các sự cố hiện có](https://github.com/github/docs/issues) của chúng tôi để tìm thứ gì đó để làm. Khi đã sẵn sàng, hãy xem [Bắt đầu đóng góp](/CONTRIBUTING.md) để biết hướng dẫn chi tiết.
 
-### Join us in discussions
+### Tham gia thảo luận cùng chúng tôi
 
-We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing you've learned in our docs, join us in the [discussions](https://github.com/github/docs/discussions).
+Chúng tôi sử dụng GitHub Discussions để thảo luận về mọi loại chủ đề liên quan đến tài liệu và trang web này. Ví dụ: nếu bạn muốn được trợ giúp khắc phục sự cố PR, có ý tưởng mới tuyệt vời hoặc muốn chia sẻ điều gì đó tuyệt vời mà bạn đã học được trong tài liệu của chúng tôi, hãy tham gia cùng chúng tôi trong [discussions](https://github.com/github/docs/discussions).
 
-### And that's it!
+### Và thế là xong!
 
-If you're having trouble with your GitHub account, contact [Support](https://support.github.com).
+Nếu bạn gặp sự cố với tài khoản GitHub của mình, hãy liên hệ với [Support](https://support.github.com).
 
-That's how you can easily become a member of the GitHub Docs community. :sparkles:
+Đó là cách bạn có thể dễ dàng trở thành thành viên của cộng đồng GitHub Docs. :sparkles:
 
-## READMEs
+## README
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
+Ngoài README mà bạn đang đọc ngay lúc này, kho lưu trữ này bao gồm các README khác mô tả mục đích của từng thư mục con chi tiết hơn:
 
 - [content/README.md](content/README.md)
 - [content/graphql/README.md](content/graphql/README.md)
@@ -44,14 +44,16 @@ In addition to the README you're reading right now, this repo includes other REA
 - [data/variables/README.md](data/variables/README.md)
 - [src/README.md](src/README.md)
 
-## License
+## Giấy phép
 
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
+Tài liệu sản phẩm GitHub trong các thư mục tài sản, nội dung và dữ liệu được cấp phép theo [giấy phép CC-BY](LICENSE).
 
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
+Tất cả các mã khác trong kho lưu trữ này được cấp phép theo [giấy phép MIT](LICENSE-CODE).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+Khi sử dụng logo GitHub, hãy đảm bảo tuân thủ [hướng dẫn về logo GitHub](https://github.com/logos).
 
-## Thanks :purple_heart:
+## Cảm ơn :purple_heart:
 
-Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+Cảm ơn vì tất cả những đóng góp và nỗ lực của bạn để cải thiện tài liệu GitHub. Chúng tôi cảm ơn bạn đã tham gia cộng đồng :sparkles: của chúng tôi :sparkles:!
+
+ 
