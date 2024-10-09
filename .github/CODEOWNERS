@@ -1,13 +1,15 @@
-# Order is important. The LAST matching pattern has the MOST precedence.
-# gitignore style patterns are used, not globs.
+
+# Thứ tự rất quan trọng. Mẫu khớp lệnh CUỐI CÙNG có mức độ ưu tiên CAO NHẤT.
+# Các mẫu kiểu gitignore được sử dụng, không phải globs.
 # https://docs.github.com/articles/about-codeowners
 # https://git-scm.com/docs/gitignore
 
-# Site Policy
+# Chính sách của trang
 /content/site-policy/ @github/site-policy-admins
 
-# Enterprise
+# Doanh nghiệp
 /data/release-notes/**/*.yml @github/docs-content-enterprise
 
-# Requires review of #actions-oidc-integration, docs-engineering/issues/1506
+# Yêu cầu xem xét #actions-oidc-integration, docs-engineering/issues/1506
 content/actions/deployment/security-hardening-your-deployments/** @github/oidc
+ 
